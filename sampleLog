@@ -1,0 +1,234 @@
+Client Side Histry of command
+
+
+
+513    399  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  514    400  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  515    401  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  516    402  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  517    403  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  518    404  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  519    405  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  520    406  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  521    407  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  522    408  dig auth.trollyfull.com
+  523    409  dig auth.trollyfull.com
+  524    410  dig auth.trollyfull.com
+  525    411  clear
+  526    412  dig a auth.trollyfull.com
+  527    413  dig a trollyfull.com
+  528    414  dig a www.trollyfull.com
+  529    415  dig a auth.trollyfull.com
+  530    416  dig a auth.trollyfull.com
+  531    417  dig a auth.trollyfull.com
+  532    418  ssh -i websrv3.pem kali@localhost -p 2323 -D 9999
+  533    419  ssh -i websrv3.pem kali@127.0.0.1 -p 2323 -D 9999
+  534    420  ssh kali@127.0.0.1 -p 2323 -D 9999
+  535    421  ssh kali@127.0.0.1 -p 12323 -D 9999
+  536    422  clear
+  537    423  ssh kali@127.0.0.1 -p 12323 -D 9999
+  538    424  ssh kali@127.0.0.1 -p 12323 -D 8080
+  539    425  ssh kali@127.0.0.1 -p 12323 -D 8080
+  540    426  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  541    427  clear
+  542    428  ls
+  543    429  vi dns2tcpConfigClient.txt 
+  544    430  wget https@127.0.0.1 -p 443 -D 8080
+  545    431  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  546    432  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  547    433  clear
+  548    434  vi /etc/hosts
+  549    435  hostname 
+  550    436  hostname lankali
+  551    437  hostname
+  552    438  exit
+  553    439  clear
+  554    440  ls
+  555    441  hostname lkali
+  556    442  exit
+  557    443  clear
+  558    444  clear
+  559    445  ls
+  560    446  pwd
+  561    447  ls
+  562    448  cd ..
+  563    449  ls
+  564    450  exit
+  565    451  clear
+  566    452  clear
+  567    453  ls
+  568    454  exit
+  569    455  clear
+  570    456  clear
+  571    457  clear
+  572    458  init 6
+  573    459  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  574    460  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  575    461  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  576    462  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  577    463  service ssh restart
+  578    464  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  579    465  clear
+  580    466  service ssh restart
+  581    467  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  582    468  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  583    469  clear
+  584    470  ls
+  585    471  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  586    472  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  587    473  ls
+  588    474  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  589    475  ip a
+  590    476  ls
+  591    477  exit
+  592    478  clear
+  593    479  ls
+  594    480  pwd
+  595    481  ls
+  596    482  cd ..
+  597    483  ls
+  598    484  cd ~
+  599    485  clear
+  600    486  l
+  601    487  clear
+  602    488  ls
+  603    489  clear
+  604    490  ls
+  605    491  ssh -i websrv3.pem kali@127.0.0.1 -p 12323 -D 8080
+  606    492  exit
+  607    493  clear
+  608    494  ls
+  609    495  ifconfig
+  610    496  service ssh restart
+  611    497  history 
+  612    498  clear
+  613    499  clear
+  614    500  dns2tcpc -d 3 -f dns2tcpConfigClient.txt
+  615    501  ifconfig
+  616    502  vi /etc/ssh/sshd_config
+  617    503  service sshd restart
+  618    504  service sshd start
+  619    505  ping 192.168.1.101
+  620    506  ping 192.168.1.235
+  621  clear
+  622  history
+  
+  
+  
+Server side history of command
+
+    1  clear
+    2  init 6
+    3  clear
+    4  apt-get update
+    5  apt install dns2tcp
+    6  apt install iodine
+    7  clear
+    8  clear
+    9  clear
+   10  ls
+   11  clear
+   12  lcewar
+   13  clear
+   14  ls
+   15  vi dns2Server.conf
+   16  mkdir dns2tcp
+   17  vi dns2Server.conf
+   18  dns2tcpd -F -D 3 -f dns2Server.conf
+   19  dns2tcpd -F -d 3 -f dns2Server.conf
+   20  apt install tcpdump
+   21  tcpdump -i eth0 not port 22
+   22  clear
+   23  history
+   24  dns2tcpd -F -D 3 -f dns2Server.conf
+   25  dns2tcpd -F -d 3 -f dns2Server.conf
+   26  clear
+   27  dns2tcpd -F -d 3 -f dns2Server.conf
+   28  vi dns2Server.conf
+   29  dns2tcpd -F -d 3 -f dns2Server.conf
+   30  clear
+   31  ls
+   32  clear
+   33  tcpdump -i eth0 no port 22
+   34  history
+   35  tcpdump -i eth0 not port 22
+   36  clear
+   37  tcpdump -i eth0 not port 22
+   38  exit
+   39  clear
+   40  dns2tcpd -F -d 3 -f dns2Server.conf
+   41  vi dns2Server.conf
+   42  dns2tcpd -F -d 3 -f dns2Server.conf
+   43  vi dns2Server.conf
+   44  dns2tcpd -F -d 3 -f dns2Server.conf
+   45  vi dns2Server.conf
+   46  dns2tcpd -F -d 3 -f dns2Server.conf
+   47  vi dns2Server.conf
+   48  dns2tcpd -F -d 3 -f dns2Server.conf
+   49  exit
+   50  exit
+   51  clear
+   52  iodined -f -p test -n trollyfull.com 0.0.0.0 ns1.trollyfull.com
+   53  iodined -f -P test -n trollyfull.com 0.0.0.0 ns1.trollyfull.com
+   54  iodined -f -P test -n www.trollyfull.com 0.0.0.0 ns1.trollyfull.com
+   55  iodined -f -P test -n www.trollyfull.com 172.23.2.88 ns1.trollyfull.com
+   56  clear
+   57  exit
+   58  clear
+   59  ls
+   60  dns2tcpd -F -d 3 -f dns2Server.conf
+   61  clear
+   62  ls
+   63  cd dns2tcp/
+   64  clear
+   65  ls
+   66  cd ..
+   67  clear
+   68  exit
+   69  clear
+   70  ls
+   71  exit
+   72  dns2tcpd -F -d 3 -f dns2Server.conf
+   73  clear
+   74  exit
+   75  clear
+   76  history
+   77  dns2tcpd -F -d 3 -f dns2Server.conf
+   78  exit
+   79  clear
+   80  dns2tcpd -F -d 3 -f dns2Server.conf
+   81  init 0
+   82  cleawr
+   83  clear
+   84  ls
+   85  vi server.c
+   86  gcc server.c -o dnsServer
+   87  vi server.c
+   88  vi server.c
+   89  ls
+   90  ./dnsServer
+   91  ./dnsServer
+   92  dns2tcpd -F -d 3 -f dns2Server.conf
+   93  whois timesinternet.com
+   94  whois timesofindia.com
+   95  apt install whois
+   96  whois timesofindia.com
+   97  whois -h axisbank.com
+   98  whois -H axisbank.com
+   99  cleawr
+  100  ls
+  101  cd dnsServer
+  102  ./dnsServer
+  103  clear
+  104  hist
+  105  history
+  106  dns2tcpd -F -d 3 -f dns2Server.conf
+  107  clear
+  108  exit
+  109  ls
+  110  cd dnsServer
+  111  ./dnsServer
+  112  ./dnsServer
+  113  clear
+  114  ls
+  149  history
